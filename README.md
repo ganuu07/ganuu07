@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ganuu07
-- 👀 I’m interested in ... coding AI HACKING
+- 👀 I’m interested in ... CODING, AI, HACKING.
 - 🌱 I’m currently learning ... COMPUTER SCIENCE
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yashborse@gmail.com
 
 <!---
